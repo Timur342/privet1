@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: mediumblue;
+    border-radius: 5px;
+
+}
+header img{
+    padding: 10px;
+}
+
+header a {
+    color: orangered
+}
+
+h1{
+    border-radius: 400px;
+    background-color:tomato;
+    padding: 10px;
+    text-align: center;
+}
+
+footer{
+    border-radius: 4000px;
+    background-color: yellowgreen;
+    padding: 6.3px;
+    text-align: center;
+}
+
+
+.pro{
+    background-color:mediumaquamarine;
+    border-radius: 9000000px;
+    padding: 10px;
+    text-align: center;
+}
